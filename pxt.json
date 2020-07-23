@@ -32,14 +32,14 @@
         "Lesson5/5/5.md",
         "Lesson6/6.1/6.1.md",
         "Lesson6/6.2/6.2.md",
+        "Lesson6/6.3/6.3.md",
         "Lesson6/6.3.1/6.3.1.md",
         "Lesson6/6.3.2/6.3.2.md",
+        "Lesson6/6.4.1/6.4.1.md",
+        "Lesson6/6.4.2/6.4.2.md",
         "main.blocks",
         "main.ts",
-        "README.md",
-        "Lesson6/6.5/6.5.md",
-        "Lesson6/6.5.1/6.5.1.md",
-        "Lesson6/6.5.2/6.5.2.md"
+        "README.md"
     ],
     "testFiles": [
         "test.ts"
